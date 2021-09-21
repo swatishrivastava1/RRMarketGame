@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/drawable-v24/outlinerate.xml" value="0.2203125" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/drawable/bg_history_20dp.xml" value="0.2203125" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/drawable/bg_rounded_btn.xml" value="0.2203125" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/drawable/bg_rounded_btn_pink.xml" value="0.2203125" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/drawable/bg_rounded_outline_red.xml" value="0.2203125" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/drawable/button_bg.xml" value="0.2203125" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/drawable/edit_bg.xml" value="0.2203125" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/activity_forget.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/activity_forgot_password_whatspp.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/activity_login.xml" value="0.19814814814814816" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/activity_mpin_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/activity_otp.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/activity_passchange.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/activity_register.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/activity_splash.xml" value="0.1962962962962963" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/app_bar_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/background_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/betdate_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/bettype_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/date_time_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/dialog_address_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/dialog_bank_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/dialog_bid_close.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/dialog_exit.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/dialog_forgot_mpin.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/dialog_googlepay_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/dialog_mpin.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/dialog_paytm_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/dialog_personal_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/dialog_phonepe_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/dialog_required.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/dialogue_updation.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/fragment_account_statementt.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/fragment_add_fund.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/fragment_add_fund_history.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/fragment_all_history.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/fragment_choice_panna.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/fragment_digit.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/fragment_digit_based_jodi.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/fragment_game_rate.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/fragment_generate_m_p_i_n_.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/fragment_history.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/fragment_home.xml" value="0.19444444444444445" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/fragment_howto_play.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/fragment_j_odi.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/fragment_jackpot_game.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/fragment_left_right_digit.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/fragment_matka_name_history.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/fragment_noticeboard.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/fragment_notification.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/fragment_odd_even.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/fragment_pana.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/fragment_select_game.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/fragment_setting.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/fragment_single_digirt.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/fragment_sp_dp_moter.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/fragment_sp_motor.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/fragment_starline_games.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/fragment_terms.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/fragment_two_digit_panna.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/fragment_withdraw_fund_history.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/fragment_withdrawal_fund.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/gamebottomlayout.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/loading_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/nav_header.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/nointernet_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/row_add_data.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/row_date.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/row_fund_history.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/row_history.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/row_jackpot.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/row_matka.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/row_matka_history.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/row_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/row_notification.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/row_rate.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/row_select_game.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/row_single_number.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/row_starline.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/layout/sucess_toast.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/RRMarket/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.11510416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

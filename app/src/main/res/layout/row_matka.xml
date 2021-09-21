@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/rel_matka"
+    android:layout_margin="2dp"
+    android:layout_height="wrap_content"
+
+
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="139dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginBottom="4dp"
+        android:background="@drawable/outlinerate">
+
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/card_matka"
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_margin="2dp"
+
+            android:padding="10dp"
+
+            app:cardCornerRadius="10dp"
+            app:cardElevation="10dp">
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                android:paddingLeft="10dp">
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+
+                    android:layout_height="wrap_content"
+
+                    android:orientation="vertical"
+                    android:paddingLeft="0dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:orientation="vertical">
+
+                        <RelativeLayout
+                            android:id="@+id/rel_play"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_horizontal"
+                            android:layout_weight=".3">
+
+                            <ImageView
+                                android:id="@+id/matka_image"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+
+                                android:layout_centerInParent="true"
+                                android:src="@drawable/playbutton" />
+                        </RelativeLayout>
+
+                        <TextView
+                            android:id="@+id/tv_matkaName"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/rLayoutBidsTime"
+                            android:layout_centerHorizontal="true"
+                            android:gravity="center"
+                            android:text="MORNING KUBER"
+                            android:textAllCaps="true"
+                            android:textColor="@color/colorAccent"
+                            android:textSize="18dp"
+                            android:textStyle="bold" />
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/tv_matkaName">
+
+                            <RelativeLayout
+                                android:id="@+id/rlNum"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_centerHorizontal="true"
+
+                                android:gravity="center">
+
+                                <TextView
+                                    android:id="@+id/tv_sNum"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="578"
+
+
+                                    android:textColor="@color/black"
+                                    android:textSize="16dp"
+                                    android:textStyle="bold" />
+
+                                <TextView
+                                    android:id="@+id/matka_dess1"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_toRightOf="@id/tv_sNum"
+                                    android:paddingLeft="2dp"
+
+                                    android:text="-"
+                                    android:textColor="@color/colorPrimary"
+                                    android:textSize="16dp"
+                                    android:textStyle="bold"
+                                    android:visibility="gone" />
+
+                                <TextView
+                                    android:id="@+id/matka_res_Number"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_toRightOf="@id/matka_dess1"
+                                    android:text="578"
+
+                                    android:textColor="@color/colorPrimary"
+                                    android:textSize="16dp"
+                                    android:textStyle="bold"
+                                    android:visibility="gone" />
+
+                                <TextView
+                                    android:id="@+id/matka_dess2"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_toRightOf="@id/matka_res_Number"
+                                    android:paddingLeft="2dp"
+
+                                    android:text="-"
+                                    android:textColor="@color/colorPrimary"
+                                    android:textSize="16dp"
+                                    android:textStyle="bold"
+                                    android:visibility="gone" />
+
+                                <TextClock
+                                    android:id="@+id/matka_end_Number"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_toRightOf="@id/matka_dess2"
+                                    android:text="578"
+
+                                    android:textColor="@color/colorPrimary"
+                                    android:textSize="16dp"
+                                    android:textStyle="bold"
+                                    android:visibility="gone" />
+
+                                <TextView
+                                    android:id="@+id/matka_id"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_toRightOf="@id/matka_end_Number"
+
+
+                                    android:text="578"
+                                    android:textColor="@color/colorPrimary"
+                                    android:textSize="8dp"
+                                    android:textStyle="bold"
+                                    android:visibility="invisible" />
+
+                            </RelativeLayout>
+
+                            <TextView
+                                android:id="@+id/tv_loader"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_centerHorizontal="true"
+                                android:layout_gravity="center_vertical"
+                                android:gravity="center"
+                                android:text="Loading..."
+                                android:textColor="#316D35"
+                                android:textSize="16dp"
+                                android:visibility="gone" />
+                        </RelativeLayout>
+
+                        <LinearLayout
+                            android:id="@+id/linMain"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:id="@+id/tv_text"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_centerHorizontal="true"
+                                android:layout_gravity="center_vertical"
+                                android:gravity="center"
+                                android:text=""
+                                android:textColor="@color/black"
+                                android:textSize="10dp"
+                                android:visibility="gone" />
+
+                            <LinearLayout
+                                android:id="@+id/rLayoutBidsTime"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center_horizontal"
+                                android:gravity="center_horizontal">
+
+                                <TextView
+                                    android:id="@+id/matka_txt_open_bid_Time"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="OPEN-"
+                                    android:textColor="@color/colorPrimary"
+                                    android:textSize="10dp" />
+
+                                <TextView
+                                    android:id="@+id/tv_openTime"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_centerHorizontal="true"
+                                    android:layout_toRightOf="@id/matka_txt_open_bid_Time"
+                                    android:paddingLeft="2dp"
+                                    android:text="12:28 am"
+                                    android:textColor="@color/colorPrimary"
+                                    android:textSize="10dp" />
+
+                                <View
+
+                                    android:layout_width="2dp"
+                                    android:layout_height="10dp"
+                                    android:layout_centerInParent="true"
+                                    android:layout_marginLeft="6dp"
+                                    android:layout_marginTop="2.5dp"
+                                    android:layout_marginBottom="2.5dp"
+                                    android:background="@color/colorPrimaryDark"
+                                    android:padding="2dp"
+                                    android:textColor="@color/colorPrimary" />
+
+                                <TextView
+                                    android:id="@+id/matka_txt_close_bid_Time"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_toLeftOf="@id/tv_closeTime"
+                                    android:text="  Close"
+                                    android:textColor="@color/colorPrimary"
+                                    android:textSize="10dp" />
+
+                                <TextView
+                                    android:id="@+id/tv_closeTime"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_alignParentEnd="true"
+                                    android:layout_centerHorizontal="true"
+                                    android:paddingLeft="2dp"
+                                    android:text="12:28 am"
+                                    android:textColor="@color/colorPrimary"
+                                    android:textSize="10dp" />
+                            </LinearLayout>
+                        </LinearLayout>
+
+
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/tv_bidStatus"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+
+                        android:layout_below="@id/linMain"
+                        android:layout_centerHorizontal="true"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginTop="5dp"
+                        android:gravity="center"
+                        android:text="Bidding is Running For Today"
+                        android:textColor="@color/colorPrimary"
+                        android:textSize="12dp" />
+
+                </LinearLayout>
+
+
+            </RelativeLayout>
+        </androidx.cardview.widget.CardView>
+
+    </RelativeLayout>
+</RelativeLayout>
